@@ -72,7 +72,8 @@ The goal of this analysis is to understand historical sales trends, determine be
 - **Annual sales trend (2010–2024)**
 - **Top-selling BMW model bar chart**
 - **Transmission preference analysis**
-- **Price vs Sales scatter graph**
+- **Region with high sales**
+- **Most favourable color**
 
 ---
 
