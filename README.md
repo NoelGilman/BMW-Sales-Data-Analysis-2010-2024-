@@ -2,7 +2,7 @@
 
 This project provides a comprehensive data analysis of **BMW vehicle sales from 2010 to 2024** using Microsoft Excel. The dataset contains sales performance across multiple BMW models, including key attributes such as **model, year, color, region, transmission type, sales volume, and price**.
 
-The goal of this analysis is to understand historical sales trends, determine best-selling models, evaluate the impact of vehicle features on sales, and generate insights to support strategic decision-making.
+The goal of this analysis is to understand historical sales trends, determine best selling models, evaluate the impact of vehicle features on sales, and generate insights to support strategic decision making.
 
 ---
 
@@ -91,7 +91,7 @@ The goal of this analysis is to understand historical sales trends, determine be
 - Increase focus on **SUV and luxury models**
 - Expand marketing for **automatic transmission vehicles**
 - Optimize inventory for **popular colours (Black, White, )**
-- Consider **price-based promotional strategies** for low-volume models
+- Consider **price based promotional strategies** for low volume models
 
 
 ## 📌 Conclusion
