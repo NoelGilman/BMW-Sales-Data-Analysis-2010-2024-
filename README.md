@@ -32,3 +32,73 @@ The goal of this analysis is to understand historical sales trends, determine be
 ---
 
 ## 🛠️ Tools & Techniques Used
+
+
+### Microsoft Excel
+- Power Query (Data Cleaning)
+- Pivot Tables
+- Pivot Charts
+
+### Excel Functions
+- SUMIFS, AVERAGEIFS
+- INDEX MATCH
+- PERCENTAGE CHANGE CALCULATION
+
+  ---
+
+## 🧹 Data Cleaning Process
+
+✔ Removed duplicate records  
+✔ Checked price format and converted to numeric  
+✔ Standardized year column  
+✔ Filled or removed missing entries  
+✔ Validated sales volume values  
+✔ Organized data into a structured format
+
+---
+
+## 📈 Data Analysis Performed
+
+- Yearly sales trend analysis (2010–2024)
+- Best performing model identification
+- Impact of vehicle colour on sales volume
+- Price vs Sales relationship evaluation
+
+
+---
+
+## 📊 Key Visualizations
+
+- **Annual sales trend (2010–2024)**
+- **Top-selling BMW model bar chart**
+- **Transmission preference analysis**
+- **Price vs Sales scatter graph**
+
+---
+
+## 🔍 Key Insights
+
+> 📌 **Sales increased by approximately 75% from 2010 to 2024**  
+> 📌 **SUV models such as BMW X-Series showed highest sales volume**  
+> 📌 **Automatic transmission was preferred in 82% of all units sold**  
+> 📌 **Black, White,  were the top selling colours**  
+> 📌 Sales decline observed in **2020 due to COVID-19 impact**  
+
+---
+
+## 💡 Recommendations
+
+- Increase focus on **SUV and luxury models**
+- Expand marketing for **automatic transmission vehicles**
+- Optimize inventory for **popular colours (Black, White, )**
+- Consider **price-based promotional strategies** for low-volume models
+
+
+## 📌 Conclusion
+
+This project demonstrates how Excel can be used to extract meaningful business insights from automotive sales data. By examining historical performance this analysis provides a strategic foundation for improving BMW sales performance and market positioning.
+
+For any inquiries, feedback, or collaboration opportunities, feel free to connect!
+
+
+
